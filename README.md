@@ -1,0 +1,1 @@
+Reference code for Skillmix course https://skillmix.io/terraform/an-intro-to-terraform/ 
